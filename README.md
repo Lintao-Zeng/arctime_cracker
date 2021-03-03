@@ -23,4 +23,4 @@ ps：本项目已经构建完成，可直接使用
 
 ### 捐助
 
-<img src="https://github.com/Lintao-Zeng/arctime_cracker/blob/main/donation/alipay.jpg" width="50%" height="50%" style="float:left" /><img src="https://github.com/Lintao-Zeng/arctime_cracker/blob/main/donation/wechat.png" width="50%" height="50%" style="float:right"/>
+<img src="https://github.com/Lintao-Zeng/arctime_cracker/blob/main/donation/alipay.jpg" width="25%" height="25%" style="float:left" /><img src="https://github.com/Lintao-Zeng/arctime_cracker/blob/main/donation/wechat.png" width="25%" height="25%" style="float:right"/>
