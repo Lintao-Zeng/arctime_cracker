@@ -1,5 +1,5 @@
 # Arctime_Cracker
-逆向练习，Arctime完美破解
+逆向练习，Arctime破解补丁
 
 破解版本：Arctime Pro 2.4.1
 
@@ -20,9 +20,3 @@ ps：本项目已经构建完成，可直接使用
 2. 在hosts文件中添加`127.0.0.1 api.arctime.cn`，hosts文件路径：`C:\Windows\System32\drivers\etc`
 
 3. 最后打开Arctime Pro 2.4.1，用户名和密码随便输入，点击登录即可。
-
-### 捐助
-
-<img src="https://github.com/Lintao-Zeng/arctime_cracker/blob/main/donation/alipay.jpg" width="25%" height="25%" />
-
-<img src="https://github.com/Lintao-Zeng/arctime_cracker/blob/main/donation/wechat.png" width="25%" height="25%"/>
